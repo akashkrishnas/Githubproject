@@ -21,7 +21,7 @@ namespace Groupby
         {
             var employees = new Employee[]
             {
-                new Employee(){name="one",department=Departments.soft},
+                new Employee(){name="ddone",department=Departments.soft},
                 new Employee(){name="two",department=Departments.admin},
                 new Employee(){name="three",department=Departments.soft},
                 new Employee(){name="four",department=Departments.admin},
